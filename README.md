@@ -9,6 +9,6 @@ The repo contains the following files:
 
 - GameIDs.csv: Game IDs for professional games obtained from opendota.com
 - ObtainingDat.R: Code For Obtaining Game Details using RDota2
-- PreparePlayerStats:  Code for preparing data to compute player statistics as in Section 4.2
-- PrepareTeamStats: Code for preparing data to compute team statistics as in Section 4.1
+- CreatePlayerData.R:  Code for preparing data to compute player statistics as in Section 4.2
+- CreateTeamData.R: Code for preparing data to compute team statistics as in Section 4.1
 - PrepareAPMData: Code for preparing data to be used in APM Models in Section 5
