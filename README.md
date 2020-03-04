@@ -7,7 +7,7 @@ The following R libraries are required:
 
 The repo contains the following files:
 
-- ObtainingDat: Code For Obtaining Game Details using RDota2
+- ObtainingDat.R: Code For Obtaining Game Details using RDota2
 - PreparePlayerStats:  Code for preparing data to compute player statistics as in Section 4.2
 - PrepareTeamStats: Code for preparing data to compute team statistics as in Section 4.1
 - PrepareAPMData: Code for preparing data to be used in APM Models in Section 5
