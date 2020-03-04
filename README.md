@@ -7,6 +7,7 @@ The following R libraries are required:
 
 The repo contains the following files:
 
+- GameIDs.csv: Game IDs for professional games obtained from opendota.com
 - ObtainingDat.R: Code For Obtaining Game Details using RDota2
 - PreparePlayerStats:  Code for preparing data to compute player statistics as in Section 4.2
 - PrepareTeamStats: Code for preparing data to compute team statistics as in Section 4.1
