@@ -1,7 +1,7 @@
 library(jsonlite)
 library(RDota2)
 library(tidyverse)
-article_key <- "589506D2C6E14DC123BED6BBAC538036" 
+article_key <- "YourKey" 
 key_actions(action='register_key',value=article_key)
 
 prof.dota.dat=read.csv("GameIDs.csv") 
