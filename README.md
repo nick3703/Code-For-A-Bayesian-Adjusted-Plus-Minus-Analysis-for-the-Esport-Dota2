@@ -3,7 +3,7 @@
 This repo contains code for obtaining Dota 2 data in order to replicate the results for the manuscript *A Bayesian Adjusted Plus-Minus Analysis for the Esport Dota 2*
 
 The following R libraries are required:
-`tidyverse`, `RDota2`, `Matrix`, `rstan`
+`tidyverse`, `RDota2`, `Matrix`, `rstan`, `jsonlite`
 
 The repo contains the following files:
 
