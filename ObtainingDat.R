@@ -11,7 +11,7 @@ tot.games=length(unique(prof.dota.tib$match_id))
 unique.games=unique(prof.dota.tib$match_id)
 count=1
 place.hold=data.frame(game=NA,player=NA,slot=NA,id=NA,i0=NA,i1=NA,i2=NA,i3=NA,i4=NA,i5=NA,bp0=NA,
-                      bp1=NA,bp2=NA,kills=NA,deaths=NA,assists=NA,l_st=NA,la_hits=NA,denies=NA,gpm=NA,xpm=NA,level=NA,win=NA)
+                      bp1=NA,bp2=NA,itemn=NA,kills=NA,deaths=NA,assists=NA,l_st=NA,la_hits=NA,denies=NA,gpm=NA,xpm=NA,level=NA,win=NA)
 prof.match.details=list()
 for(k in 1:tot.games){
   game=get_match_details(unique.games[k])
