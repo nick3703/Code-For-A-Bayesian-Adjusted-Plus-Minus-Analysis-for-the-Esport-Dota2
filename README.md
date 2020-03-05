@@ -16,4 +16,4 @@ The repo contains the following files:
 - FitBayesWLAPM.R: Code for fitting the WL APM Model in Section 5.1
 - GPMAPMStan.stan: Code for building the Stan model for GPM APM model in Section 5.2
 - FitBayesGPMAPM.R: Code for fitting the GPM APM Model in Section 5.2
-
+- Heros.csv: Information on each of the heros players can choose with associated strengths and weaknesses (Current as of early 2019)
