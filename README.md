@@ -1,4 +1,4 @@
-# Code For *A Bayesian Adjusted Plus Minus Analysis for the Esport Dota2* by Clark, MacDonald, Kloo
+# Code For *A Bayesian Adjusted Plus Minus Analysis for the Esport Dota2* by Clark, Macdonald, Kloo
 
 This repo contains code for obtaining Dota 2 data in order to replicate the results for the manuscript *A Bayesian Adjusted Plus-Minus Analysis for the Esport Dota 2*
 
